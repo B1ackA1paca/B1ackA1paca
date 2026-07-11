@@ -13,7 +13,7 @@ ML Engineer / Junior ML Developer. Учусь на 1 курсе бакалавр
 * **Tools & OS:** Linux (CLI, Manjaro), Git, SQL
 
 ## 📈 Featured Project
-* 📂 **[Flibusta Dataset Semantic Analysis](https://github.com/BlackA1paca/НАЗВАНИЕ_ТВОЕГО_РЕПОЗИТОРИЯ)** — Локальный пайплайн обработки данных 2000+ книг, Map-Reduce суммаризация через LLM API и генерация семантических эмбеддингов документов на PyTorch.
+* 📂 **[Flibusta Dataset Semantic Analysis](https://github.com/B1ackA1paca/flibusta-book-embeddings)** — Локальный пайплайн обработки данных 2000+ книг, Map-Reduce суммаризация через LLM API и генерация семантических эмбеддингов документов на PyTorch.
 
 ## 📬 Connect with me
 * **Telegram:** [@BlackA1paca](https://t.me/BlackA1paca)
