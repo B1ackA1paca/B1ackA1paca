@@ -21,5 +21,4 @@ ML Engineer / Junior ML Developer. Учусь на 1 курсе бакалавр
 
 ## 📬 Connect with me
 * **Telegram:** [@BlackA1paca](https://t.me/BlackA1paca)
-* **Email:** apple.vl@yand
-* ex.ru
+* **Email:** apple.vl@yandex.ru
